@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/ExercocopsPOO.iml" filepath="$PROJECT_DIR$/src/ExercocopsPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercicios-poo-luizgabrielnaoseioq.iml" filepath="$PROJECT_DIR$/.idea/exercicios-poo-luizgabrielnaoseioq.iml" />
+    </modules>
+  </component>
+</project>
